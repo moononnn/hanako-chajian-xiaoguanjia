@@ -1,4 +1,4 @@
-# hanako插件开发小指南 / plugin-dev-guide
+# 插件小管家 / hanako-chajian-xiaoguanjia
 
 > ⚠️ **用之前先知道这些**
 >
