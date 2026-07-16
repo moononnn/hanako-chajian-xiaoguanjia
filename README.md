@@ -1,4 +1,4 @@
-# 插件小管家 / hanako-chajian-xiaoguanjia
+# 插件开发小管家 / hanako-chajian-xiaoguanjia
 
 > ⚠️ **用之前先知道这些**
 >
