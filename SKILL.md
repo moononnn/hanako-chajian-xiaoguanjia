@@ -1,7 +1,6 @@
 ---
 name: plugin-dev-guide
-description: Hana 插件开发完整指引，覆盖从立项、开发、调试、交接、备份到审查的全生命周期。MANDATORY TRIGGERS：开发插件、写插件、做插件、插件开发、继续开发、换窗口、新窗口见、交接、插件备份、审查插件、插件完成了。
-SOFT TRIGGERS（卡住时触发）：卡住了、又不行、还是没解决、翻踩坑、查坑、修不好了、搞不定
+description: Hana 插件开发完整指引，覆盖从立项、开发、调试、交接、备份到审查的全生命周期。MANDATORY TRIGGERS：开发插件、写插件、做插件、插件开发、继续开发、换窗口、新窗口见、交接、插件备份、审查插件、插件完成了。SOFT TRIGGERS：卡住了、又不行、还是没解决、翻踩坑、查坑、修不好了、搞不定
 default-enabled: true
 references:
   - path: references/01-api-reference.md
